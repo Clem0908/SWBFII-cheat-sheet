@@ -12,6 +12,7 @@ A list of command line arguments `BattlefrontII.exe` can take:
 - /win - windowed
 - /resolution 320 240 - max recommended: 1280 720
 - /[no]framelock - disable V-Sync
+
 Dedicated Server options & more right [here](https://pastebin.com/ZRtgg6Dd)
 
 # Team-up with AI
